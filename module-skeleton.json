@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-moderation-and-analytics-flutter",
+  "capabilityKey": "liberusoftware/module-browser-game-moderation-and-analytics",
+  "presentation": "mobile-flutter",
+  "package": "module_browser_game_moderation_and_analytics_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/browser-game/nextjs/moderation-and-analytics.md",
+  "presentationPlan": "projects/browser-game/flutter/moderation-and-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
